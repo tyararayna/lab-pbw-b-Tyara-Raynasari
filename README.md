@@ -4,5 +4,5 @@
  
 ## Data Diri
  
-- Nama :Tyara Raynasari 
+- Nama : Tyara Raynasari 
 - NPM  : 2108107010030
